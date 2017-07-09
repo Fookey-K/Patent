@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+/* ============== company页面 ==================== */
+
+#cmpSearchBox{
+    margin-top: 10px;
+    margin-left:10px;
+}
+
+.cmpMagTabBox{
+    position: relative;
+    top:10px;
+    left: 10px;
+}
+
+#cmpMagTab{
+    border:1px solid black;
+    width: 100%;
+}
+
+#cmpMagTab td{
+    border:1px solid black;
+    border-collapse:collapse;
+}
+
+
